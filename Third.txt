@@ -3,9 +3,9 @@ Modified
 
 Happy Coding
 
-Get the fresh copy from the repo
+Get the fresh copy from the repo/undo changes
 git checkout -- Second.txt 
 
-Undo changes
-
+Unstage staged files
+undo my changes
  
