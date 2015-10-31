@@ -3,3 +3,9 @@ Modified
 
 Happy Coding
 
+Get the fresh copy from the repo
+git checkout -- Second.txt 
+
+Undo changes
+
+ 
