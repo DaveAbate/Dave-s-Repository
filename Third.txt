@@ -7,5 +7,5 @@ Get the fresh copy from the repo/undo changes
 git checkout -- Second.txt 
 
 Unstage staged files
-undo my changes
+undo my 
  
