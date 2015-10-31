@@ -1,16 +1,1 @@
-This is the third file. 
-Modified
-
-Happy Coding
-
-git diff
-git add -am ""
-
-Get the fresh copy from the repo/undo changes
-git checkout -- Second.txt 
-
-Unstage staged files
-git reset HEAD Second.txt 
-
-
- 
+Third
